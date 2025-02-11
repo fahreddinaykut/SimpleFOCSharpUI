@@ -1,0 +1,14 @@
+C:\Users\Fahreddin\source\repos\SimpleFOCSharpUI\SimpleFOCSharpUI\obj\Debug\SimpleFOCSharpUI.csproj.AssemblyReference.cache
+C:\Users\Fahreddin\source\repos\SimpleFOCSharpUI\SimpleFOCSharpUI\obj\Debug\MainWindow.baml
+C:\Users\Fahreddin\source\repos\SimpleFOCSharpUI\SimpleFOCSharpUI\obj\Debug\MainWindow.g.cs
+C:\Users\Fahreddin\source\repos\SimpleFOCSharpUI\SimpleFOCSharpUI\obj\Debug\App.g.cs
+C:\Users\Fahreddin\source\repos\SimpleFOCSharpUI\SimpleFOCSharpUI\obj\Debug\SimpleFOCSharpUI_MarkupCompile.cache
+C:\Users\Fahreddin\source\repos\SimpleFOCSharpUI\SimpleFOCSharpUI\obj\Debug\SimpleFOCSharpUI.g.resources
+C:\Users\Fahreddin\source\repos\SimpleFOCSharpUI\SimpleFOCSharpUI\obj\Debug\SimpleFOCSharpUI.Properties.Resources.resources
+C:\Users\Fahreddin\source\repos\SimpleFOCSharpUI\SimpleFOCSharpUI\obj\Debug\SimpleFOCSharpUI.csproj.GenerateResource.cache
+C:\Users\Fahreddin\source\repos\SimpleFOCSharpUI\SimpleFOCSharpUI\obj\Debug\SimpleFOCSharpUI.csproj.CoreCompileInputs.cache
+C:\Users\Fahreddin\source\repos\SimpleFOCSharpUI\SimpleFOCSharpUI\bin\Debug\SimpleFOCSharpUI.exe.config
+C:\Users\Fahreddin\source\repos\SimpleFOCSharpUI\SimpleFOCSharpUI\bin\Debug\SimpleFOCSharpUI.exe
+C:\Users\Fahreddin\source\repos\SimpleFOCSharpUI\SimpleFOCSharpUI\bin\Debug\SimpleFOCSharpUI.pdb
+C:\Users\Fahreddin\source\repos\SimpleFOCSharpUI\SimpleFOCSharpUI\obj\Debug\SimpleFOCSharpUI.exe
+C:\Users\Fahreddin\source\repos\SimpleFOCSharpUI\SimpleFOCSharpUI\obj\Debug\SimpleFOCSharpUI.pdb
