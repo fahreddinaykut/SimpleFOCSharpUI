@@ -241,5 +241,5 @@ void cmdTorqueType(char* cmd) {
 Pull requests are welcome. For major changes, please open an issue first to discuss your ideas.
 
 ## License
-This project is licensed under the MIT License.
+Free to use for personal and commercial purposes.
 
